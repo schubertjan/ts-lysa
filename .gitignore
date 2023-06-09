@@ -2,3 +2,4 @@ makefile
 .config
 .local
 .Rhistory
+.Rproj.user

@@ -1,0 +1,13 @@
+---
+title: "Ceník"
+---
+\
+\
+
+| Služba                        | Popis                                                                          |
+|:------------------------------|:--------------------------------------------------------------------------------|
+| Údržba městské zeleně         | Péče o veřejné zelené plochy, parky a zahrady ve městě.                         |
+| Údržba osvětlení veřejných prostorů  | Správa a údržba osvětlení veřejných ulic, chodníků a náměstí.            |
+| Odvoz a likvidace odpadu      | Pravidelný odvoz a odpovědná likvidace odpadu.                                   |
+| Údržba a opravy infrastruktury | Technická podpora a opravy veřejných budov a infrastruktury.                   |
+| Správa veřejných komunikací   | Připojení a správa veřejných komunikačních sítí a infrastruktury.               |
