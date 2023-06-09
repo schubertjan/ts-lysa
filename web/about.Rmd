@@ -1,0 +1,44 @@
+---
+title: "Kontakt"
+---
+
+
+```{r, echo=FALSE}
+library(leaflet)
+
+latitude <- 50.2016554
+longitude <- 14.8373345
+
+marker_icon <- makeIcon(
+  iconUrl = "https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.8.0-beta.0/images/marker-icon.png",
+  shadowUrl = "https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.8.0-beta.0/images/marker-shadow.png",
+)
+
+map <- leaflet() %>%
+  addTiles() %>%
+  addMarkers(lng = longitude, lat = latitude, popup = "TS Lysa", icon = marker_icon)
+map
+```
+
+
+### Kontakt:
+
+Městský úřad Lysá nad Labem
+
+Husovo náměstí 23/1
+
+289 22 Lysá nad Labem
+
+Datová schránka: 5adasau
+
+IČO: 00239402
+
+DIČ: CZ00239402
+
+\
+
+Tel.: +420 325 510 211
+
+E-mail: info@mestolysa.cz
+
+Podatelna: podatelna@mestolysa.cz 

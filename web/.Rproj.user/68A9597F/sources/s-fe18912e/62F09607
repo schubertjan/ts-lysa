@@ -1,0 +1,26 @@
+{
+    "id": "62F09607",
+    "path": "~/web/about.Rmd",
+    "project_path": "about.Rmd",
+    "type": "r_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1686316206620.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "9,23",
+        "scrollLine": "7"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1686317838,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1686317838142,
+    "read_only": false,
+    "read_only_alternatives": []
+}

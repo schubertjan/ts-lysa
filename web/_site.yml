@@ -1,0 +1,8 @@
+name: "TS-Lysá-nad-Labem"
+navbar:
+  title: "Domů"
+  left:
+    - text: "Úvod"
+      href: index.html
+    - text: "Kontakt"
+      href: about.html
